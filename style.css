@@ -1,0 +1,23 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(26, 24, 24);
+    color: white;
+    text-align: center;
+}
+.box{
+    /* border:px solid black; */
+    /* border-radius:2px; */
+    display: inline-block;
+    width: 100%;
+    
+    background-color: rgb(22, 21, 21);
+  }
+  .box2{
+    background-color: rgb(22, 21, 21);
+    padding: 20px;
+    margin-bottom: 20px; 
+  }
+  
